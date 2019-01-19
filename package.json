@@ -1,6 +1,6 @@
 {
   "name": "core.io-server-fastify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "core.io Server module exposing Fastify",
   "main": "index.js",
   "scripts": {
