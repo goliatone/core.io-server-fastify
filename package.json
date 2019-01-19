@@ -28,6 +28,7 @@
     "watch": "^1.0.2"
   },
   "dependencies": {
+    "fastify-plugin": "^1.4.0",
     "gextend": "^0.3.0"
   }
 }
